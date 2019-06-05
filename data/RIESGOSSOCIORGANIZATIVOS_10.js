@@ -1,0 +1,1 @@
+var json_RIESGOSSOCIORGANIZATIVOS_10 = {"type":"FeatureCollection","name":"RIESGOSSOCIORGANIZATIVOS_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"TIPO":"DELEGACIÓN"},"geometry":{"type":"Point","coordinates":[-99.660874767436383,19.445846854999811]}}]}
